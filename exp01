@@ -1,0 +1,218 @@
+[
+  {
+    "id": "582",
+    "page": "ajustement",
+    "droit": "voir",
+    "statut": 0,
+    "groupe_id": "7",
+    "created_at": "2021-05-11 20:44:32",
+    "updated_at": "2021-05-11 20:44:32"
+  },
+  {
+    "id": "583",
+    "page": "ajustement",
+    "droit": "ajouter",
+    "statut": 1,
+    "groupe_id": "7",
+    "created_at": "2021-05-11 20:44:32",
+    "updated_at": "2021-05-11 20:44:32"
+  },
+  {
+    "id": "584",
+    "page": "ajustement",
+    "droit": "editer",
+    "statut": 0,
+    "groupe_id": "7",
+    "created_at": "2021-05-11 20:44:32",
+    "updated_at": "2021-05-11 20:44:32"
+  },
+  {
+    "id": "585",
+    "page": "ajustement",
+    "droit": "supprimer",
+    "statut": 1,
+    "groupe_id": "7",
+    "created_at": "2021-05-11 20:44:32",
+    "updated_at": "2021-05-11 20:44:32"
+  },
+  {
+    "id": "586",
+    "page": "corbeille",
+    "droit": "voir",
+    "statut": 0,
+    "groupe_id": "7",
+    "created_at": "2021-05-11 20:44:32",
+    "updated_at": "2021-05-11 20:44:32"
+  },
+  {
+    "id": "587",
+    "page": "corbeille",
+    "droit": "ajouter",
+    "statut": 1,
+    "groupe_id": "7",
+    "created_at": "2021-05-11 20:44:32",
+    "updated_at": "2021-05-11 20:44:32"
+  },
+  {
+    "id": "588",
+    "page": "corbeille",
+    "droit": "editer",
+    "statut": 0,
+    "groupe_id": "7",
+    "created_at": "2021-05-11 20:44:32",
+    "updated_at": "2021-05-11 20:44:32"
+  },
+  {
+    "id": "589",
+    "page": "corbeille",
+    "droit": "supprimer",
+    "statut": 1,
+    "groupe_id": "7",
+    "created_at": "2021-05-11 20:44:32",
+    "updated_at": "2021-05-11 20:44:32"
+  },
+  {
+    "id": "590",
+    "page": "dossier",
+    "droit": "voir",
+    "statut": 0,
+    "groupe_id": "7",
+    "created_at": "2021-05-11 20:44:32",
+    "updated_at": "2021-05-11 20:44:32"
+  },
+  {
+    "id": "591",
+    "page": "dossier",
+    "droit": "ajouter",
+    "statut": 1,
+    "groupe_id": "7",
+    "created_at": "2021-05-11 20:44:32",
+    "updated_at": "2021-05-11 20:44:32"
+  },
+  {
+    "id": "592",
+    "page": "dossier",
+    "droit": "editer",
+    "statut": 1,
+    "groupe_id": "7",
+    "created_at": "2021-05-11 20:44:32",
+    "updated_at": "2021-05-11 20:44:32"
+  },
+  {
+    "id": "593",
+    "page": "dossier",
+    "droit": "supprimer",
+    "statut": 0,
+    "groupe_id": "7",
+    "created_at": "2021-05-11 20:44:32",
+    "updated_at": "2021-05-11 20:44:32"
+  },
+  {
+    "id": "594",
+    "page": "message",
+    "droit": "voir",
+    "statut": 1,
+    "groupe_id": "7",
+    "created_at": "2021-05-11 20:44:32",
+    "updated_at": "2021-05-11 20:44:32"
+  },
+  {
+    "id": "595",
+    "page": "message",
+    "droit": "ajouter",
+    "statut": 1,
+    "groupe_id": "7",
+    "created_at": "2021-05-11 20:44:32",
+    "updated_at": "2021-05-11 20:44:32"
+  },
+  {
+    "id": "596",
+    "page": "message",
+    "droit": "editer",
+    "statut": 0,
+    "groupe_id": "7",
+    "created_at": "2021-05-11 20:44:32",
+    "updated_at": "2021-05-11 20:44:32"
+  },
+  {
+    "id": "597",
+    "page": "message",
+    "droit": "supprimer",
+    "statut": 1,
+    "groupe_id": "7",
+    "created_at": "2021-05-11 20:44:32",
+    "updated_at": "2021-05-11 20:44:32"
+  },
+  {
+    "id": "598",
+    "page": "parametre",
+    "droit": "voir",
+    "statut": 1,
+    "groupe_id": "7",
+    "created_at": "2021-05-11 20:44:32",
+    "updated_at": "2021-05-11 20:44:32"
+  },
+  {
+    "id": "599",
+    "page": "parametre",
+    "droit": "ajouter",
+    "statut": 1,
+    "groupe_id": "7",
+    "created_at": "2021-05-11 20:44:32",
+    "updated_at": "2021-05-11 20:44:32"
+  },
+  {
+    "id": "600",
+    "page": "parametre",
+    "droit": "editer",
+    "statut": 1,
+    "groupe_id": "7",
+    "created_at": "2021-05-11 20:44:32",
+    "updated_at": "2021-05-11 20:44:32"
+  },
+  {
+    "id": "601",
+    "page": "parametre",
+    "droit": "supprimer",
+    "statut": 1,
+    "groupe_id": "7",
+    "created_at": "2021-05-11 20:44:32",
+    "updated_at": "2021-05-11 20:44:32"
+  },
+  {
+    "id": "602",
+    "page": "planning",
+    "droit": "voir",
+    "statut": 0,
+    "groupe_id": "7",
+    "created_at": "2021-05-11 20:44:32",
+    "updated_at": "2021-05-11 20:44:32"
+  },
+  {
+    "id": "603",
+    "page": "planning",
+    "droit": "ajouter",
+    "statut": 1,
+    "groupe_id": "7",
+    "created_at": "2021-05-11 20:44:32",
+    "updated_at": "2021-05-11 20:44:32"
+  },
+  {
+    "id": "604",
+    "page": "planning",
+    "droit": "editer",
+    "statut": 1,
+    "groupe_id": "7",
+    "created_at": "2021-05-11 20:44:32",
+    "updated_at": "2021-05-11 20:44:32"
+  },
+  {
+    "id": "605",
+    "page": "planning",
+    "droit": "supprimer",
+    "statut": 0,
+    "groupe_id": "7",
+    "created_at": "2021-05-11 20:44:32",
+    "updated_at": "2021-05-11 20:44:32"
+  }
+]

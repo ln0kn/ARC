@@ -1,0 +1,24 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MariaDB",
+            "name": "mariadDb",
+            "database": "archive",
+            "username": "lank",
+            "password": "katon123K"
+        }
+    ],
+    "php.suggest.basic": false,
+    "editor.quickSuggestions": { "comments": true },
+    "php-cs-fixer.rules": "@PhpCsFixer",
+    "[php]": {
+        "editor.defaultFormatter": "junstyle.php-cs-fixer",
+        "editor.formatOnSave": true
+      },
+}
